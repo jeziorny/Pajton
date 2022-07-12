@@ -6,4 +6,4 @@ w = float(input("Podaj wagę w kg:"))
 bmi = round(w / (h ** 2), 2)
 
 
-print("Moje BMI to: " + str(bmi))
+print("Twoje BMI to: " + str(bmi))
