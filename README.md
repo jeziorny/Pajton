@@ -1,3 +1,3 @@
 # Pajton
 
-Sienkiewicz to super pisarz
+Repo z zadaniami do nauki Pythona by Rita
