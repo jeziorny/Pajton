@@ -21,3 +21,10 @@ print(zen)
 # Podziel tekst na osobne zdania za pomocą kropki
 zen = zen.split(".") # wiem, ze zwraca listę stringów jako osobnych zdań wg delimitera z parama
 print(zen)
+
+# Stwórz dwie dowolne zmienne przechowujące wartość liczbową i tekstową. Użyj funkcji format(), by wyświetlić zdanie zawierające te wartości.
+
+tekst_o_kajakach = "liczba kajaków"
+liczba_kajaków = 6
+
+print(f"A to ciekawe, widzisz. Bo spójrz tylko - {tekst_o_kajakach} to {liczba_kajaków}!")
