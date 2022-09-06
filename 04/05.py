@@ -59,6 +59,7 @@ ingredients = ["makaron", "pomidory", "czerwone wino", "oliwa z oliwek"]
 
 for each in ingredients:
     print(f'Dodaj {each}')
+print("Podawaj z serem albo winem!")
 
 # Napisz program, który dla 10 kolejnych liczb naturalnych wyświetli sumę poprzedników. Oczekiwany wynik: 1, 3, 6, 10, 15, 21, 28, 36, 45, 55
 
