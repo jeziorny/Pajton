@@ -16,7 +16,7 @@ for row in peuple:
     # print(f"{row[0]} {row[1]}, {row[2]}")
     for col in row:
         if col != row[-1]:
-            print(col, end="*")
+            print(col, end=" ")
         else:
             print(col, end=".")
     print()
