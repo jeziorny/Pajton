@@ -75,7 +75,7 @@ user_number = int(input("Podaj liczbę naturalną mniejszą niż 9: "))
 fact = 1
 
 if user_number > 8:
-    user_number = int(input("Twoja liczba jest większa niż 9. Podaj mniejszą: "))
+    user_number = int(input("Twoja liczba jest większa niż 8. Podaj mniejszą: "))
 else:
     for i in range(1, user_number + 1):
         fact = fact * i

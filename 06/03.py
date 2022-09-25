@@ -10,7 +10,7 @@ if user_num in nums:
 """ for ind, val in enumerate(nums):
     if user_num == val:
         print(ind)
- """
+"""
 
 if user_num not in nums:
     print("Nie ma takiej liczby no.")
